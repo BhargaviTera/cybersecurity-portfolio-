@@ -55,6 +55,21 @@ Wireshark • Burp Suite • Splunk • Microsoft Sentinel • Nmap • Gobuster
 - [CompTIA Security+](https://www.credly.com/badges/795044ec-b662-4595-b54a-5abe1c54482c)
 - [CompTIA CySA+](https://www.credly.com/badges/2e5e0dbf-f9bf-4563-a9fe-39a25d3ce9e4)
 - [Tryhackme Cyber Security 101 (SEC1) Certificate](https://assets.tryhackme.com/certification-certificate/69f8b59a3743ca4a5fd16697.pdf)
+## 🏅 TryHackMe Achievements
+
+### 🔵 Blue Teaming
+- Shield Apprentice
+- Security Awareness
+
+### 🔴 Red Teaming
+- OWASP Top 10
+- Pentesting Principles
+- Metasploitable
+- Sword Apprentice (SQLMap)
+
+### 🐧 Foundations
+- Linux Fundamentals
+- Cyber Ready
 
 ## 📫 Contact
 Email: bhargavireddy419@gmail.com  
