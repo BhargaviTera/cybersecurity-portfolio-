@@ -42,6 +42,17 @@ Assess web application security by identifying common vulnerabilities, testing a
 - Investigated client-server communication behavior.
 
 ---
+  
+## 🛡 OWASP Top 10 Concepts Covered
+
+- Injection Vulnerabilities (SQL Injection)
+- Cross-Site Scripting (XSS)
+- Broken Authentication
+- Security Misconfiguration
+- Identification & Authentication Failures
+- Vulnerable and Exposed Endpoints
+
+---
 
 ## 🔎 Example Commands & Payloads Used
 
