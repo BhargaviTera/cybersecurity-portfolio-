@@ -1,6 +1,6 @@
 # CyberSecurity-Portfolio
 ## 👩‍💻 About Me
-Cybersecurity Analyst with 3 years of work experience in security operations, network monitoring, and incident response. After a planned career break, I focused on continuous learning through hands-on labs, cybersecurity certifications, and practical projects on platforms like TryHackMe to further strengthen my skills.
+Cybersecurity Analyst with experience in security operations, network monitoring, and incident response. After a planned career break, I focused on continuous learning through hands-on labs, cybersecurity certifications, and practical projects on platforms like TryHackMe to further strengthen my skills.
 ## 🛠 Core Cybersecurity Skills
 
 - SIEM Monitoring & Incident Response
