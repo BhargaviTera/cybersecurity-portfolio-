@@ -1,0 +1,124 @@
+# 🤖 AI Security Fundamentals
+
+## 🎯 Objective
+Develop practical skills to identify, analyze, and mitigate security risks in Large Language Models (LLMs), AI agents, Retrieval-Augmented Generation (RAG) systems, and AI supply chains using defense-in-depth principles.
+
+---
+
+## 🛠 Tools & Technologies Used
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases
+- Prompt Engineering
+- SafeTensors
+- Pickle
+- GGUF
+- Fickling
+- ModelScan
+- SBOM (CycloneDX / SPDX)
+- OWASP Top 10 for LLM Applications
+- AI Threat Modeling
+
+---
+
+## 🔍 Activities Performed
+
+### 🛡 Prompt Injection & Jailbreak Analysis
+- Analyzed direct and indirect prompt injection attacks.
+- Performed prompt jailbreak testing using role-play, multi-turn, and context manipulation techniques.
+- Evaluated prompt hardening strategies and system prompt security.
+- Studied AI guardrails, input validation, and output filtering techniques.
+
+### 🤖 LLM Security
+- Explored LLM attack surfaces and trust boundaries.
+- Analyzed sensitive information disclosure risks in AI applications.
+- Studied improper output handling and secure AI deployment practices.
+- Applied defense-in-depth principles for AI systems.
+
+### 📚 RAG (Retrieval-Augmented Generation) Security
+- Analyzed RAG architecture and retrieval workflows.
+- Investigated vector database security and embedding-based retrieval.
+- Studied retrieval abuse, context manipulation, and indirect prompt injection.
+- Evaluated tenant isolation, metadata filtering, namespace segmentation, and retrieval access control.
+- Investigated ingestion pipeline security and document validation.
+
+### 🧬 AI Supply Chain Security
+- Analyzed AI model supply chain attack vectors.
+- Investigated malicious model serialization using Pickle.
+- Compared Pickle, SafeTensors, Keras (.h5), and GGUF model formats.
+- Studied model provenance, integrity verification, and secure model acquisition.
+- Investigated dependency confusion, typosquatting, and model repository attacks.
+
+### 🧪 AI Model Security Analysis
+- Identified serialization-based attacks using Pickle (__reduce__ exploitation).
+- Investigated architecture-level attacks such as malicious Keras Lambda layers.
+- Performed static security analysis using Fickling and ModelScan.
+- Evaluated model integrity through checksums and security scanning.
+
+### ☣️ AI Data & Model Poisoning
+- Studied training data poisoning attacks.
+- Investigated embedding poisoning and corpus poisoning.
+- Analyzed ingestion pipeline attacks and retrieval manipulation.
+- Evaluated behavioral drift caused by poisoned datasets.
+
+### 🔒 AI Defensive Security
+- Implemented layered security controls for AI systems.
+- Applied prompt hardening and structured prompt templates.
+- Evaluated AI guardrails for input and output validation.
+- Studied secure logging, monitoring, and anomaly detection.
+- Applied least privilege and zero-trust principles to AI deployments.
+
+---
+
+## 🔎 Security Concepts Covered
+
+- Prompt Injection
+- Prompt Jailbreaking
+- Multi-turn Jailbreaking
+- Context Manipulation
+- Indirect Prompt Injection
+- AI Guardrails
+- LLM Threat Modeling
+- RAG Security
+- Vector Database Security
+- Embedding Security
+- Tenant Isolation
+- Metadata Filtering
+- Sensitive Information Disclosure
+- AI Supply Chain Security
+- Model Poisoning
+- Training Data Poisoning
+- Corpus Poisoning
+- SafeTensors
+- Pickle Deserialization
+- Model Provenance
+- SBOM
+- Defense-in-Depth
+- Zero Trust for AI
+- OWASP Top 10 for LLM Applications
+
+---
+
+## 🧭 Security Assessment Methodology
+
+1. Identify AI application architecture and trust boundaries.
+2. Analyze prompt injection and jailbreak attack surfaces.
+3. Assess RAG pipelines, retrieval mechanisms, and vector databases.
+4. Evaluate model supply chain and serialization security.
+5. Scan models for malicious payloads and unsafe architectures.
+6. Assess AI-specific threats including poisoning and sensitive data exposure.
+7. Validate layered security controls and deployment protections.
+8. Recommend defense-in-depth strategies aligned with OWASP LLM Top 10.
+
+---
+
+## 📖 Key Learning Outcomes
+
+- Securing Large Language Model (LLM) applications.
+- Performing AI threat modeling and security assessments.
+- Identifying AI supply chain vulnerabilities.
+- Evaluating RAG security and vector database risks.
+- Detecting malicious AI models and serialization attacks.
+- Understanding AI poisoning techniques and mitigations.
+- Applying secure AI deployment and governance practices.
+- Implementing defense-in-depth strategies for enterprise AI systems.
